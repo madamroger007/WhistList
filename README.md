@@ -26,11 +26,6 @@ Install dependensi dan menjalankan venv
 For support, email adamsetiadijr07@gmail.com or join our Slack channel.
 
 
-## Demo
-
-Insert gif or link to demo
-
-
 ## Deployment
 
 Deployment with **glitch**
