@@ -122,7 +122,7 @@
                     url: "/bucket",
                     data: { bucket_give: bucket },
                 });
-
+                console.log({response});
                 alert(response["msg"]);
                 window.location.reload();
             } catch (error) {
@@ -138,7 +138,7 @@
                     url: "/bucket/done",
                     data: { done_bucket: num },
                 });
-
+                console.log({response});
                 alert(response["msg"]);
                 window.location.reload();
             } catch (error) {
