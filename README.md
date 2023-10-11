@@ -5,6 +5,7 @@ Project Whistlist adalah sebuah projek website untuk menambahkan daftar harapan.
 
 
 ## Tech Stack
+Beberapa teknologi yang dipakai untuk membangun projek ini seperti :
 
 **Client:** Boostrap , JQUERY
 
