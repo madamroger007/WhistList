@@ -21,15 +21,15 @@ Install dependensi dan menjalankan venv
 ```
 
 
-    
-## Support
-
-For support, email adamsetiadijr07@gmail.com or join our Slack channel.
-
-
 ## Deployment
 
 Deployment with **glitch**
 
 [Glitch Deployment](https://glitch.com/)
+
+
+    
+## Support
+
+For support, email adamsetiadijr07@gmail.com or join our Slack channel.
 
